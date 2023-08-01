@@ -1,0 +1,19 @@
+C:\Users\DELL\Desktop\GUIforControlMotor\DCMotorControl\DCMotorControl\bin\Debug\DCMotorControl.exe.config
+C:\Users\DELL\Desktop\GUIforControlMotor\DCMotorControl\DCMotorControl\bin\Debug\DCMotorControl.exe
+C:\Users\DELL\Desktop\GUIforControlMotor\DCMotorControl\DCMotorControl\bin\Debug\DCMotorControl.pdb
+C:\Users\DELL\Desktop\GUIforControlMotor\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.MainForm.resources
+C:\Users\DELL\Desktop\GUIforControlMotor\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.Properties.Resources.resources
+C:\Users\DELL\Desktop\GUIforControlMotor\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\GUIforControlMotor\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GUIforControlMotor\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.exe
+C:\Users\DELL\Desktop\GUIforControlMotor\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.pdb
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\bin\Debug\DCMotorControl.exe.config
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\bin\Debug\DCMotorControl.exe
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\bin\Debug\DCMotorControl.pdb
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.csproj.AssemblyReference.cache
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.MainForm.resources
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.Properties.Resources.resources
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.csproj.GenerateResource.cache
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.csproj.CoreCompileInputs.cache
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.exe
+D:\4.HK221\4. Hệ thống Điều khiển nhúng\HTDKN_L01_Nhom8\DCMotorControl\DCMotorControl\obj\Debug\DCMotorControl.pdb
