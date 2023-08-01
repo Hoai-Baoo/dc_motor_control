@@ -1,4 +1,4 @@
-﻿# embedded_project
+﻿# dc_motor_control
 
 # Introduction
 Authors:
