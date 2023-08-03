@@ -12,7 +12,9 @@ Authors:
 
 
 This is our mini project in Embedded Control Systems Course at HCMUT. In this project, we use STM32F407 to control a DC motor and we build a simple software by C# to control and watch motor state.
-**To use STM32407 code, you need to add the STM32F4xxDSP_StdPeriph_Lib_V1.9.0 folder inside the folder STM32F407Code. **
+
+**To use STM32407 code, you need to add the STM32F4xxDSP_StdPeriph_Lib_V1.9.0 folder inside the folder STM32F407Code.**
+**You can download it here.**
 
 # Hardware 
 **Connection diagrams**
