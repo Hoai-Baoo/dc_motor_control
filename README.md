@@ -20,6 +20,8 @@ This is our mini project in Embedded Control Systems Course at HCMUT. In this pr
 **Connection diagrams**
 
 ![image](https://github.com/Hoai-Baoo/embedded_project/assets/93426264/def6a211-4279-407f-b9fe-e732c8d18e97)
+![image](https://github.com/Hoai-Baoo/dc_motor_control/assets/93426264/8f8778f4-3286-45f9-85f5-39c45848b94b)
+
 
 **STM32F407 config**
 
